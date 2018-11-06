@@ -1,0 +1,23 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btdrizzle/Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btdrizzle/Express/issues"
+  },
+  "homepage": "https://github.com/btdrizzle/Express#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "http": "0.0.0"
+  }
+}
